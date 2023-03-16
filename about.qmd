@@ -17,3 +17,5 @@ about:
 ---
 
 About this blog
+
+자기소개 업데이트
